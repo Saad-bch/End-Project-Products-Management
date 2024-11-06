@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "E-book: JavaScript Voor Beginners",
+        "price": 15.99,
+        "image": "/assets/media/ebook.jpg",
+        "description": "Een uitgebreid e-book dat je stap voor stap door de basis van JavaScript begeleidt.."
+    },
+    {
+        "id": 2,
+        "name": "Photoshop Templates",
+        "price": 29.99,
+        "image": "assets/media/old.jpg",
+        "description": "Een verzameling professionele Photoshop-sjablonen die je kunt gebruiken voor het ontwerpen."
+    },
+    {
+        "id": 3,
+        "name": "Videocursus HTML & CSS",
+        "price": 19.99,
+        "image": "assets/media/beige.jpg",
+        "description": "Leer de basis van webontwikkeling met deze videocursus die zich richt op HTML en CSS.."
+    },
+    {
+        "id": 4,
+        "name": "Website Thema",
+        "price": 49.99,
+        "image": "assets/media/laptop.jpg",
+        "description": "Een responsief website-thema dat eenvoudig kan worden aangepast aan jouw specifieke behoeften."
+    },
+    {
+        "id": 5,
+        "name": "Grafisch Ontwerp Pakket",
+        "price": 39.99,
+        "image": "assets/media/laptop2.jpg",
+        "description": "Een uitgebreid pakket voor grafisch ontwerpers, inclusief iconen."
+    },
+    {
+        "id": 6,
+        "name": "PHP: E-book beginner",
+        "price": 70.99,
+        "image": "assets/media/radio.jpg",
+        "description": "Een gedetailleerd e-book dat je de basis van PHP leert.."
+    }
+]
